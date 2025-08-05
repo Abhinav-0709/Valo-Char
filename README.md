@@ -1,0 +1,1 @@
+In this project I show case my desgin for valorant charactors in 3D view for the users to interact with as they are rotating like a choosing charactor or see  their design upclose with fun little interaction.
